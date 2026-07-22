@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# -ai-career-path
+AI Career Path is an AI-powered career operating system for BTech students. It guides freshers from their first day of college to their first job with personalized roadmaps, AI mentorship, skill tracking, resume building, internship guidance, certification planning, and placement preparation across multiple engineering branches.
+>>>>>>> 2189af74656450381f80d4a5bbc5a1f35656b1d8
